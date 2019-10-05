@@ -1,2 +1,2 @@
 def hiTest():
-    print("hello")
+    print("test successful")
