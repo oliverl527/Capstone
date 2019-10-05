@@ -1,2 +1,2 @@
 def hiTest():
-    print("hi")
+    print("hello")
